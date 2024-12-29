@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\ClincBussniesLayer\bin\Debug\ClincBussniesLayer.dll
+C:\Users\hp\source\repos\ClincBussniesLayer\bin\Debug\ClincBussniesLayer.pdb
+C:\Users\hp\source\repos\ClincBussniesLayer\bin\Debug\ClincDataAccess.dll
+C:\Users\hp\source\repos\ClincBussniesLayer\bin\Debug\ClincDataAccess.pdb
+C:\Users\hp\source\repos\ClincBussniesLayer\obj\Debug\ClincBussniesLayer.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ClincBussniesLayer\obj\Debug\ClincBussniesLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ClincBussniesLayer\obj\Debug\ClincBus.86CE3EF2.Up2Date
+C:\Users\hp\source\repos\ClincBussniesLayer\obj\Debug\ClincBussniesLayer.dll
+C:\Users\hp\source\repos\ClincBussniesLayer\obj\Debug\ClincBussniesLayer.pdb

@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\ClincConsolTest\bin\Debug\ClincConsolTest.exe.config
+C:\Users\hp\source\repos\ClincConsolTest\bin\Debug\ClincConsolTest.exe
+C:\Users\hp\source\repos\ClincConsolTest\bin\Debug\ClincConsolTest.pdb
+C:\Users\hp\source\repos\ClincConsolTest\bin\Debug\ClincBussniesLayer.dll
+C:\Users\hp\source\repos\ClincConsolTest\bin\Debug\ClincDataAccess.dll
+C:\Users\hp\source\repos\ClincConsolTest\bin\Debug\ClincBussniesLayer.pdb
+C:\Users\hp\source\repos\ClincConsolTest\bin\Debug\ClincDataAccess.pdb
+C:\Users\hp\source\repos\ClincConsolTest\obj\Debug\ClincConsolTest.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ClincConsolTest\obj\Debug\ClincConsolTest.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ClincConsolTest\obj\Debug\ClincCon.33D4F456.Up2Date
+C:\Users\hp\source\repos\ClincConsolTest\obj\Debug\ClincConsolTest.exe
+C:\Users\hp\source\repos\ClincConsolTest\obj\Debug\ClincConsolTest.pdb

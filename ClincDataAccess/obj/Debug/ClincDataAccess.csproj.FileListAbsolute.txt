@@ -1,0 +1,6 @@
+C:\Users\hp\source\repos\ClincDataAccess\bin\Debug\ClincDataAccess.dll
+C:\Users\hp\source\repos\ClincDataAccess\bin\Debug\ClincDataAccess.pdb
+C:\Users\hp\source\repos\ClincDataAccess\obj\Debug\ClincDataAccess.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ClincDataAccess\obj\Debug\ClincDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ClincDataAccess\obj\Debug\ClincDataAccess.dll
+C:\Users\hp\source\repos\ClincDataAccess\obj\Debug\ClincDataAccess.pdb
