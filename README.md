@@ -7,5 +7,5 @@ The Medical Clinic Management Application is built to simplify and organize the 
 It supports core functionalities, such as managing patients, appointments, doctors, medical records, and payment
 The project is designed to enhance learning and demonstrate advanced database integration techniques through hands-on experience.
 
-"In the end, I applied what I learned in a real-world project to gain hands-on experience and develop my skills
+In the end, I applied what I learned in a real-world project to gain hands-on experience and develop my skills
 I am committed to continuous learning and exploring new technologies to improve and grow further.
